@@ -1,4 +1,4 @@
-Attribute VB_Name = "MK14_PUBLIC_HEX"
+Attribute VB_Name = "PUBLIC_HEX_BYTES"
 
 Option Explicit
 
